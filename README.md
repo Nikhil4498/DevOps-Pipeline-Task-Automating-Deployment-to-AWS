@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide provides a **beginner-friendly, step-by-step solution** to containerize an application that uses **Nginx and a database**, and deploy it to **AWS**, ensuring scalability and automation using **Terraform**, **Docker**, and **Jenkins**.
+This guide provides a step-by-step solution** to containerize an application that uses **Nginx and a database**, and deploy it to **AWS**, ensuring scalability and automation using **Terraform**, **Docker**, and **Jenkins**.
 
 ---
 
